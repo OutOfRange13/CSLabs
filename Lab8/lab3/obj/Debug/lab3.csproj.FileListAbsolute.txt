@@ -1,0 +1,7 @@
+C:\Users\nikin\Desktop\lab3\bin\Debug\lab3.exe.config
+C:\Users\nikin\Desktop\lab3\bin\Debug\lab3.exe
+C:\Users\nikin\Desktop\lab3\bin\Debug\lab3.pdb
+C:\Users\nikin\Desktop\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\nikin\Desktop\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\nikin\Desktop\lab3\obj\Debug\lab3.exe
+C:\Users\nikin\Desktop\lab3\obj\Debug\lab3.pdb
